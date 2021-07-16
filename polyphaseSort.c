@@ -332,7 +332,11 @@ int main(int argc, char *argv[]) {
     }
 
     puts("Vetor ordenado:");
+<<<<<<< HEAD
     /* printaTudo(wr); */
+=======
+    printaTudo(wr);
+>>>>>>> beb7403 (Intercalação Polifásica 1.0)
 
     return 0;
 }
